@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Portfólio de Antonio Tremaria
+
+>>>>>>> 2b1adbc (Adicionar README do portfólio)
 Bem-vindo ao meu portfólio pessoal! Aqui você encontrará meus projetos, habilidades e informações de contato.
 
 ---
@@ -16,7 +21,11 @@ Olá, sou Antonio Tremaria, estudante de Engenharia da Computação e desenvolve
 
 ---
 
+<<<<<<< HEAD
 ## Projetos em destaque ( sendo desenvolvidos ainda)
+=======
+## Projetos em destaque (sendo desenvolvidos)
+>>>>>>> 2b1adbc (Adicionar README do portfólio)
 
 ### Web 3D
 - Projeto em HTML e CSS explorando efeitos 3D.
