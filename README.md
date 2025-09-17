@@ -16,7 +16,7 @@ Olá, sou Antonio Tremaria, estudante de Engenharia da Computação e desenvolve
 
 ---
 
-## Projetos em destaque
+## Projetos em destaque ( sendo desenvolvidos ainda)
 
 ### Web 3D
 - Projeto em HTML e CSS explorando efeitos 3D.
